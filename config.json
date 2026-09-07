@@ -12,8 +12,8 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "গেসুকে 😈",
-  "prefix": "~",
+  "nickNameBot": "⎯͢⎯⃝🌺𝗟𝗮𝗺𝗶𝗮 𝗔𝗸𝘁𝗵𝗮𝗿⎯͢⎯⃝😻",
+  "prefix": "+",
   "noPrefix": true,
   "noPrefixNotes": "When true, Bot Admins (role 2) and Developers (role 4) can run commands without the prefix",
   "adminOnly": {
@@ -21,7 +21,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61580644970976"
+    "100021922069388"
   ],
   "premiumUsers": [
     "61580644970976"
